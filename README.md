@@ -1,6 +1,6 @@
 -  Hi, I’m @JustiNoel
 -  I’m interested in Technology and Coding and changing the World
--  I’m currently learning Full Stack Development and Software Engineering
+-  Expert in Full Stack Development, Cyber Security and Software Engineering
 -  I’m looking to collaborate on Open Source Software Projects
 -  How to reach me 
 -  Pronouns: Them
